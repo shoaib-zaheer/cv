@@ -1,11 +1,11 @@
 
-![My-Pic](My-pictuer1.jpg)
+![My-Pic](My-pictuer.jpg)|
 
 # Short Curriculum Vitae
 
-| **Name**      | Shoaib Zaheer          |                             
-| -----------   | -----------------------|
-|**Nationality**| Afghan                 |
+| **Name**      | Shoaib Zaheer          |                          
+| -----------   | -----------------------| 
+|**Nationality**| Afghan                 | 
 |**GSM**        | +32 467 663258         |
 |**E-mail**     | _z.shoaib015@gmail.com_|
  ****
