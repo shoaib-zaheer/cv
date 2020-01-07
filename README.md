@@ -8,18 +8,19 @@
 |**Nationality**| Afghan                 | 
 |**GSM**        | +32 467 663258         |
 |**E-mail**     | _z.shoaib015@gmail.com_|
- ****
+ 
 ### About ME
+ 
  ****
 >I am **self taught** computer CG artist/ love to learn new things and challenge my self by learning new things, I have basic knowledge of web designing love to develop it more to become professional developer and programmer.
-****
+
  ### Web (code)
 ****
 
 * HTML
 * CSS
 
-****
+
 ### CG Softwears
 ****
 
@@ -35,7 +36,7 @@
 * WebBuilder
 * Worldpress
 
-****
+
 ### Art Exhibition
 ****
 
