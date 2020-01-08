@@ -3,25 +3,30 @@
 
 # Short Curriculum Vitae
 
+
 | **Name**      | Shoaib Zaheer          |                          
-| -----------   | -----------------------| 
+| -----------   | ---------------------- | 
 |**Nationality**| Afghan                 | 
 |**GSM**        | +32 467 663258         |
 |**E-mail**     | _z.shoaib015@gmail.com_|
  
-### About ME
+ 
+ ****
+ ****
+ 
+#### About ME
  
  ****
 >I am **self taught** computer CG artist/ love to learn new things and challenge my self by learning new things, I have basic knowledge of web designing love to develop it more to become professional developer and programmer.
 
- ### Web (code)
+ #### Web (code)
 ****
 
 * HTML
 * CSS
 
 
-### CG Softwears
+#### CG Softwears
 ****
 
 * Adobe
@@ -35,9 +40,10 @@
 * Blender (Basic)
 * WebBuilder
 * Worldpress
+* Others
 
 
-### Art Exhibition
+#### Art Exhibition
 ****
 
 > For the past some years my art exhibitions in ``Belguim``
