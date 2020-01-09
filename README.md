@@ -12,19 +12,19 @@ Short Curriculum Vitae
  
  
  
-#### About ME
+### About ME
  
  ****
 >I am **self taught** computer CG artist/ love to learn new things and challenge my self by learning new things, I have basic knowledge of web designing love to develop it more to become professional developer and programmer.
 
- #### Web (_code_)
+ ### Web (_code_)
 ****
 
 * HTML
 * CSS
 
 
-#### CG Softwears
+### CG Softwears
 ****
 
 * Adobe
@@ -41,7 +41,7 @@ Short Curriculum Vitae
 * Others
 
 
-#### Art Exhibition
+### Art Exhibition
 ****
 
 > For the past some years my exhibitions in ``Belguim``
