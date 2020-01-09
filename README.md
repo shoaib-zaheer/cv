@@ -1,25 +1,23 @@
 ![My-pictuer](https://user-images.githubusercontent.com/59531766/71894252-02a80f80-314e-11ea-8c0f-938a95a3f648.jpg)|
 |-
 
-# Short Curriculum Vitae
+Short Curriculum Vitae
+====
 
-
-| **Name**      | Shoaib Zaheer          |                          
+| **Name**      | *Shoaib Zaheer*        |                          
 | -----------   | ---------------------- | 
-|**Nationality**| Afghan                 | 
-|**GSM**        | +32 467 663258         |
-|**E-mail**     | _z.shoaib015@gmail.com_|
+|**Nationality**| *Afghan*               | 
+|**GSM**        | *+32 467 663258*       |
+|**E-mail**     | *z.shoaib015@gmail.com*|
  
  
- ****
- ****
  
 #### About ME
  
  ****
 >I am **self taught** computer CG artist/ love to learn new things and challenge my self by learning new things, I have basic knowledge of web designing love to develop it more to become professional developer and programmer.
 
- #### Web (code)
+ #### Web (_code_)
 ****
 
 * HTML
@@ -46,7 +44,7 @@
 #### Art Exhibition
 ****
 
-> For the past some years my art exhibitions in ``Belguim``
+> For the past some years my exhibitions in ``Belguim``
 
 1. **2019** 7 short animation drawing KASK School of ART ``Gent``
 1. **2018** Collegrapy and paintings ``Peruwelz``
