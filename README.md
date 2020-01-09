@@ -19,7 +19,7 @@ Short Curriculum Vitae
  ****
 >I am **self taught** computer CG artist/ love to learn new things and challenge my self by learning new things, I have basic knowledge of web designing love to develop it more to become professional developer and programmer.
 
- ### Web (_code_)
+### Web (code)
 ****
 
 * HTML
@@ -54,5 +54,5 @@ Short Curriculum Vitae
 1. **2018** Solo Water color paintings ``Tournai``
 1. **2017** water color and pencil drawing ``Tournai``
 
-[My Facebook Page](https://www.facebook.com/shoaibartt "Dont forget to like") /
-[Github account](https://github.com/Shoaib-Zaheer)
+[My Facebook Page](https://www.facebook.com/shoaibartt "Dont forget to LIKE") /
+[Github account](https://github.com/Shoaib-Zaheer "Follow Me")
