@@ -40,8 +40,11 @@ Short Curriculum Vitae
 * Blender (Basic)
 * WebBuilder
 * Worldpress
-* Others
-
+* Ms Office
+    * MS World
+    * Ms Excel
+    * Ms PowerPoint
+    * Ms Outlook
 
 ### Art Exhibition
 ****
