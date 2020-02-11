@@ -38,7 +38,7 @@ Short Curriculum Vitae
 * Inkscape
 * Blender (Basic)
 * WebBuilder
-* Worldpress
+* WordPress
 * Ms Office
     * MS World
     * Ms Excel
