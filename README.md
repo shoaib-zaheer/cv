@@ -25,7 +25,6 @@ Short Curriculum Vitae
 * HTML
 * CSS
 
-
 ### CG Softwears
 ****
 
@@ -45,6 +44,26 @@ Short Curriculum Vitae
     * Ms Excel
     * Ms PowerPoint
     * Ms Outlook
+
+### Other Skill
+
+* Animaiton Drawing
+* Drawing
+    * Pencil
+    * charcoal
+    * Piccell drawing
+    
+* Painting
+    * Water Color
+    * Oil Color
+    
+* calligraphy
+
+    * English Calligraphy
+    * Dari/ Persion Calligraphy
+    
+* Tezhip Art
+
 
 ### Art Exhibition
 ****
