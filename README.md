@@ -51,7 +51,7 @@ Short Curriculum Vitae
 * Drawing
     * Pencil
     * charcoal
-    * Piccell drawing
+    * pixel art/drawing
     
 * Painting
     * Water Color
