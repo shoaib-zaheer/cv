@@ -70,9 +70,9 @@ Short Curriculum Vitae
 
 > For the past some years my exhibitions in ``Belguim``
 
-1. **2019** 7 short animation drawing KASK School of ART ``Gent``
-1. **2018** Collegrapy and paintings ``Peruwelz``
-1. **2018** Paice of ART ``Brussels``
+1. **2019** Seven short animation drawing, KASK School of ART ``Gent``
+1. **2018** Calligraphy and paintings exhibition along with artiest 'Integration of art' ``Peruwelz``
+1. **2018** Peace of ART ``Brussels``
 1. **2018** Solo Water color paintings ``Tournai``
 1. **2017** water color and pencil drawing ``Tournai``
 
