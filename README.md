@@ -1,5 +1,4 @@
-![My-pictuer](https://user-images.githubusercontent.com/59531766/71894252-02a80f80-314e-11ea-8c0f-938a95a3f648.jpg)|
-|-
+![My-pictuer](https://user-images.githubusercontent.com/59531766/71894252-02a80f80-314e-11ea-8c0f-938a95a3f648.jpg)
 
 Short Curriculum Vitae
 ====
@@ -9,6 +8,7 @@ Short Curriculum Vitae
 |**Nationality**| *Afghan*               | 
 |**GSM**        | **       |
 |**E-mail**     | *@gmail.com*|
+|**FaceBook**   | *https://facebook.com/shoaibArtt*|
  
 
 ##### =================================================================================================
@@ -17,7 +17,9 @@ Short Curriculum Vitae
 ### About ME
  
  ****
->I am **self taught** computer CG artist/ love to learn new things and challenge my self by learning new things, I have basic knowledge of web designing love to develop it more to become professional developer and programmer.
+>I am self study & motivated artiest, able to work with different art media (water color, oil color, pencil, charcoal, calligraphy,
+miniature, wood Mosaic) in addition with an interest in computer graphic designing, animation, illustration, 3D model, video editing 
+and like to explore the world of computer code writing like HTML, CSS.
 
 ### Web (code)
 ****
